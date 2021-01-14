@@ -1,0 +1,4 @@
+Stock Name,Current Price ,Previous Close,Open,Bid,Ask,Day Range ,52 Week Range,Volume,Avg . Volume
+"Tesla, Inc. (TSLA)",574.00,555.38,540.40,574.75 x 3000,575.20 x 900,545.50 - 574.00,65.45 - 574.00,"48,930,162","56,315,821"
+Palantir Technologies Inc. (PLTR),29.05,23.82,23.96,28.82 x 2200,28.68 x 900,23.69 - 29.75,8.90 - 29.75,"201,380,044","57,304,180"
+"salesforce.com, inc. (CRM)",246.82,260.84,263.73,247.91 x 900,248.00 x 800,245.05 - 266.10,115.29 - 284.50,"26,247,827","7,843,883"
